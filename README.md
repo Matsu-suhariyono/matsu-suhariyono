@@ -2,7 +2,7 @@
 #### Data Science 
 ![Data Science ](https://scontent.fcgk4-4.fna.fbcdn.net/v/t39.30808-6/278924383_10220935777652909_393907251193477123_n.jpg?stp=c0.87.904.335a_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=dd9801&_nc_ohc=DmhEFM1pDmsAX8tXn3G&_nc_ht=scontent.fcgk4-4.fna&oh=00_AfD2kiyRh9z_HRL9DqvwMZqFa-3hlnLv6DbVvc7ViqKKRQ&oe=63D9CF9E)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Akhmad suhariyono. I came from Tangerang, Indonesia. 
 
 ## About me:
 - 🌱 I’m currently learning python , julia , php , html, css 
