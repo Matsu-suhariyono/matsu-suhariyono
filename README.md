@@ -6,7 +6,7 @@
 #### I come from Indonesia. My focus area :
 -  Construction = Welding Inspector eng. analysis inspection; Finite Element Analysis ; 
 -  Project control ; Lean manufacturing system
--  Data science 
+-  Data science ; Web UI/UX
 -  Materials & Metallurgicals = machanical testing , microstructural analysis , steel or aluminium casting process 
 
 ## About me:
@@ -34,3 +34,6 @@
 
 
 [webdev]: https://github.com/Matsu-suhariyono/matsu-suhariyono
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsu-suhariyono)](https://github.com/anuraghazra/github-readme-stats)
