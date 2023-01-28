@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning python , julia , php , html, css 
 - 👯 I’m looking to collaborate on Data science & Welding Engineering 
 - 💬 Ask me about Data science , Project Control, and Welding Inspector Eng. 
-- 📫 How to reach me: suhariyono.eng@gmail.com 
+- 📫 How to reach me: suhariyono.eng@gmail.com ; akhmadsuhariyono@gmail.com
 
 ---
 ### Languages and Tools:
