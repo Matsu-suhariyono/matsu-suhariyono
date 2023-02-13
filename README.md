@@ -10,7 +10,7 @@
 -  Materials & Metallurgicals = machanical testing , microstructural analysis , steel or aluminium casting process 
 
 ## About me:
-- 🌱 I’m currently learning python , julia , php , html, css 
+- 🌱 I’m currently learning python , julia , php , html, css , Javascript (React Js, Node Js) 
 - 👯 I’m looking to collaborate on Data science & Welding Engineering 
 - 💬 Ask me about Data science , Project Control, and Welding Inspector Eng. 
 - 📫 How to reach me: suhariyono.eng@gmail.com ; akhmadsuhariyono@gmail.com
@@ -25,7 +25,7 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Julia" width="30px" src="https://julialang.org/assets/infra/logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="30px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;" />][webdev]
 
 
 <br />
